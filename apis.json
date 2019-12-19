@@ -1,0 +1,50 @@
+{
+    "name": "Lobster",
+    "description": "<p>Lobster is a marketplace to find and license photos on social media. We connect media professionals to users on Instagram, Flickr and more.We are building the world&rsquo;s honest place to find and source affordable social media content. In real time from anywhere in the world. A rewarding experience for everyone, with 75% of earnings going to a contributor on Instagram, Flickr, Deviantart as well as many more services in the near future.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/lobster-logo.png",
+    "tags": [
+        "api provider",
+        "content",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/lobster\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Lobster",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/lobster-logo.png",
+            "humanURL": "https:\/\/lobster.media",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lobster-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.lobster.media"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/api.lobster.media\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Lobster_it"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/lobster.media"
+        }
+    ]
+}
